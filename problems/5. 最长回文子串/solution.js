@@ -23,5 +23,3 @@ var longestPalindrome = function (s) {
 
   return result;
 };
-
-console.log(longestPalindrome('babad'));
