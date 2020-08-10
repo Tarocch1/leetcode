@@ -9,7 +9,7 @@ var generateParenthesis = function (n) {
    * @return {string[]}
    */
   const recursion = length => {
-    let result = [];
+    const result = [];
     if (length === 0) result.push('');
     if (cache.has(length)) {
       return cache.get(length);
