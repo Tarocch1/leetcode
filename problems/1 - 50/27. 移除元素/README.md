@@ -47,4 +47,4 @@ for (int i = 0; i < len; i++) {
 
 **思路:**
 
-思路类似于[26. 删除排序数组中的重复项](https://github.com/Tarocch1/leetcode/tree/master/problems/26.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9)，不再赘述。
+思路类似于[26. 删除排序数组中的重复项](https://github.com/Tarocch1/leetcode/tree/master/problems/1%20-%2050/26.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9)，不再赘述。

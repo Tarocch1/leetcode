@@ -2,7 +2,7 @@
 
 **说明：** 你不能倾斜容器，且 n 的值至少为 2。
 
-![](https://github.com/Tarocch1/leetcode/blob/master/problems/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8/assets/example.jpg)
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/1%20-%2050/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8/assets/example.jpg)
 
 图中垂直线代表输入数组 [1,8,6,2,5,4,8,3,7]。在此情况下，容器能够容纳水（表示为蓝色部分）的最大值为 49。
 

@@ -14,6 +14,6 @@
 
 **思路:**
 
-思路与[46. 全排列](https://github.com/Tarocch1/leetcode/tree/master/problems/46.%20%E5%85%A8%E6%8E%92%E5%88%97)基本一致。
+思路与[46. 全排列](https://github.com/Tarocch1/leetcode/tree/master/problems/1%20-%2050/46.%20%E5%85%A8%E6%8E%92%E5%88%97)基本一致。
 
 由于数组包含重复数字，且要求结果不可重复，因此遍历时使用哈希表记录已经遍历过的数字，遍历到一个新数字时，在哈希表中查找这个数字，如果找到，直接跳过。

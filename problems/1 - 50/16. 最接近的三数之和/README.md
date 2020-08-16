@@ -16,4 +16,4 @@
 
 **思路:**
 
-整体思路类似于[15. 三数之和](https://github.com/Tarocch1/leetcode/tree/master/problems/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C)，双指针移动过程中寻找最接近目标的和即可。
+整体思路类似于[15. 三数之和](https://github.com/Tarocch1/leetcode/tree/master/problems/1%20-%2050/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C)，双指针移动过程中寻找最接近目标的和即可。

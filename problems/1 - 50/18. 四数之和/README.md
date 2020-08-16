@@ -25,4 +25,4 @@ a + b + c + d = target
 
 a + b + c = target - d
 
-遍历数组，依次作为 `d`，寻找其余数字的问题转变为类似于[15. 三数之和](https://github.com/Tarocch1/leetcode/tree/master/problems/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C)的问题。
+遍历数组，依次作为 `d`，寻找其余数字的问题转变为类似于[15. 三数之和](https://github.com/Tarocch1/leetcode/tree/master/problems/1%20-%2050/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C)的问题。
