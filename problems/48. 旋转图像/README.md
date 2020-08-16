@@ -47,3 +47,5 @@
 **思路:**
 
 将矩阵等分成四个部分，遍历一个部分中的所有节点，交换这个节点与其在其他三个部分中对应的节点，达到旋转的效果。
+
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F/assets/part.png)
