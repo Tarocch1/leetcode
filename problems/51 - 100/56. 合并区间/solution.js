@@ -8,7 +8,7 @@ var merge = function (intervals) {
   const result = [];
   let cur = intervals[0];
   for (let interval of intervals) {
-    if (interval[0] > cur [1]) {
+    if (interval[0] > cur[1]) {
       result.push(cur);
       cur = interval;
     } else {
