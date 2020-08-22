@@ -16,7 +16,7 @@ var partition = function (head, x) {
   let smallp = smallList,
     bigp = bigList,
     cur = head;
-  while(cur !== null) {
+  while (cur !== null) {
     if (cur.val < x) {
       smallp.next = cur;
       smallp = smallp.next;
