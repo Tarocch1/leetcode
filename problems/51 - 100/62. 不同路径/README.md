@@ -31,6 +31,6 @@
 
 由于机器人每次只能向下或者向右移动一步，假设网格宽为 m，高为 n，则机器人只能向下走 n - 1步，向右走 m - 1 步，只要将这 m - 1 步填入总的 m + n - 2 步即可，即：
 
-![](https://latex.codecogs.com/svg.latex?C_{m%20+%20n%20-%202}^{m%20-%201})
+![](https://latex.codecogs.com/svg.latex?%5CLARGE%20C_%7Bm%20&plus;%20n%20-%202%7D%5E%7Bm%20-%201%7D)
 
 使用排列组合公式计算即可。
