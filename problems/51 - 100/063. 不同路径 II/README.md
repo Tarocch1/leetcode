@@ -4,7 +4,7 @@
 
 现在考虑网格中有障碍物。那么从左上角到右下角将会有多少条不同的路径？
 
-![](https://github.com/Tarocch1/leetcode/blob/master/problems/51%20-%20100/63.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II/assets/robot_maze.png)
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/51%20-%20100/063.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II/assets/robot_maze.png)
 
 网格中的障碍物和空位置分别用 `1` 和 `0` 来表示。
 

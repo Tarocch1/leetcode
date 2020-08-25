@@ -14,4 +14,4 @@
 
 **思路:**
 
-[54. 螺旋矩阵](https://github.com/Tarocch1/leetcode/tree/master/problems/51%20-%20100/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)的逆过程，主体代码基本一致，不再赘述。
+[54. 螺旋矩阵](https://github.com/Tarocch1/leetcode/tree/master/problems/51%20-%20100/054.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)的逆过程，主体代码基本一致，不再赘述。

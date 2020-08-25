@@ -4,7 +4,7 @@
 
 问总共有多少条不同的路径？
 
-![](https://github.com/Tarocch1/leetcode/blob/master/problems/51%20-%20100/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84/assets/robot_maze.png)
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/51%20-%20100/062.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84/assets/robot_maze.png)
 
 <small>例如，上图是一个 7 x 3 的网格。有多少可能的路径？</small>
 

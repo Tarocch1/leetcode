@@ -17,7 +17,7 @@
 
 **思路:**
 
-思路类似于[95. 不同的二叉搜索树 II](https://github.com/Tarocch1/leetcode/tree/master/problems/51%20-%20100/95.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II)。
+思路类似于[95. 不同的二叉搜索树 II](https://github.com/Tarocch1/leetcode/tree/master/problems/51%20-%20100/095.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II)。
 
 在95题中由于必须要生成具体的树，所以 `generate(start, end)` 需要具体执行计算，但是在本题只要求计算树的数量。又注意到一下事实：
 

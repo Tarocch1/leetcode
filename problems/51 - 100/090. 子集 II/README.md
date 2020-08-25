@@ -19,4 +19,4 @@
 
 **思路:**
 
-思路与[78. 子集](https://github.com/Tarocch1/leetcode/tree/master/problems/51%20-%20100/78.%20%E5%AD%90%E9%9B%86)基本一致。由于数组中存在重复元素，因此在遍历时应跳过已经遍历过的数，为此，先将数组进行排序。
+思路与[78. 子集](https://github.com/Tarocch1/leetcode/tree/master/problems/51%20-%20100/078.%20%E5%AD%90%E9%9B%86)基本一致。由于数组中存在重复元素，因此在遍历时应跳过已经遍历过的数，为此，先将数组进行排序。
