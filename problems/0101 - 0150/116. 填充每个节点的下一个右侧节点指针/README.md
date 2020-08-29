@@ -15,6 +15,8 @@ struct Node {
 
 **示例:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/116.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88/assets/116_sample.png)
+
 ```
 输入：{"$id":"1","left":{"$id":"2","left":{"$id":"3","left":null,"next":null,"right":null,"val":4},"next":null,"right":{"$id":"4","left":null,"next":null,"right":null,"val":5},"val":2},"next":null,"right":{"$id":"5","left":{"$id":"6","left":null,"next":null,"right":null,"val":6},"next":null,"right":{"$id":"7","left":null,"next":null,"right":null,"val":7},"val":3},"val":1}
 
@@ -30,4 +32,4 @@ struct Node {
 
 **思路:**
 
-采用递归的方法，递归函数接收两棵子树，将这两棵子树的根连接起来。之后将第一棵子树的左右子树、第一课子树的右子树与第二棵子树的左子树以及第二棵子树的左右子树分别传入新的递归。最终连接完成。
+采用递归的方法，递归函数接收两棵子树，将这两棵子树的根连接起来。之后将第一棵子树的左右子树、第一棵子树的右子树与第二棵子树的左子树以及第二棵子树的左右子树分别传入新的递归。最终连接完成。
