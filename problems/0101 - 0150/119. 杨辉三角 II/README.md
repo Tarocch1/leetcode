@@ -1,5 +1,7 @@
 给定一个非负索引 *k*，其中 *k* ≤ 33，返回杨辉三角的第 *k* 行。
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/119.%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%20II/assets/PascalTriangleAnimated2.gif)
+
 在杨辉三角中，每个数是它左上方和右上方的数的和。
 
 **示例:**
