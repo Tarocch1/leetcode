@@ -12,6 +12,8 @@
 
 **示例 1:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/133.%20%E5%85%8B%E9%9A%86%E5%9B%BE/assets/133_clone_graph_question.png)
+
 ```
 输入：adjList = [[2,4],[1,3],[2,4],[1,3]]
 输出：[[2,4],[1,3],[2,4],[1,3]]
@@ -24,6 +26,8 @@
 ```
 
 **示例 2:**
+
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/133.%20%E5%85%8B%E9%9A%86%E5%9B%BE/assets/graph.png)
 
 ```
 输入：adjList = [[]]
@@ -40,6 +44,8 @@
 ```
 
 **示例 4:**
+
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/133.%20%E5%85%8B%E9%9A%86%E5%9B%BE/assets/graph-1.png)
 
 ```
 输入：adjList = [[2],[1]]
