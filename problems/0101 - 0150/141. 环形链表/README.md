@@ -4,6 +4,8 @@
 
 **示例 1:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8/assets/circularlinkedlist.png)
+
 ```
 输入：head = [3,2,0,-4], pos = 1
 输出：true
@@ -12,6 +14,8 @@
 
 **示例 2:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8/assets/circularlinkedlist_test2.png)
+
 ```
 输入：head = [1,2], pos = 0
 输出：true
@@ -19,6 +23,8 @@
 ```
 
 **示例 3:**
+
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8/assets/circularlinkedlist_test3.png)
 
 ```
 输入：head = [1], pos = -1
