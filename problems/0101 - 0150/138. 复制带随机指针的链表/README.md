@@ -9,6 +9,8 @@
 
 **示例 1:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8/assets/e1.png)
+
 ```
 输入：head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
 输出：[[7,null],[13,0],[11,4],[10,2],[1,0]]
@@ -16,12 +18,16 @@
 
 **示例 2:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8/assets/e2.png)
+
 ```
 输入：head = [[1,1],[2,1]]
 输出：[[1,1],[2,1]]
 ```
 
 **示例 3:**
+
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8/assets/e3.png)
 
 ```
 输入：head = [[3,null],[3,0],[3,null]]
