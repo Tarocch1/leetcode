@@ -3,6 +3,7 @@
 ![](https://github.com/Tarocch1/leetcode/blob/master/problems/0101%20-%200150/147.%20%E5%AF%B9%E9%93%BE%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/assets/Insertion-sort-example-300px.gif)
 
 插入排序的动画演示如上。从第一个元素开始，该链表可以被认为已经部分排序（用黑色表示）。
+<br />
 每次迭代时，从输入数据中移除一个元素（用红色表示），并原地将其插入到已排好序的链表中。
 
 **插入排序算法:**
