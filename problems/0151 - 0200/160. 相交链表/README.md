@@ -2,9 +2,13 @@
 
 如下面的两个链表：
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0151%20-%200200/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/assets/160_statement.png)
+
 在节点 c1 开始相交。
 
 **示例 1:**
+
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0151%20-%200200/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/assets/160_example_1.png)
 
 ```
 输入：intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3
@@ -14,6 +18,8 @@
 
 **示例 2:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0151%20-%200200/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/assets/160_example_2.png)
+
 ```
 输入：intersectVal = 2, listA = [0,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
 输出：Reference of the node with value = 2
@@ -21,6 +27,8 @@
 ```
 
 **示例 3:**
+
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0151%20-%200200/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/assets/160_example_3.png)
 
 ```
 输入：intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2
