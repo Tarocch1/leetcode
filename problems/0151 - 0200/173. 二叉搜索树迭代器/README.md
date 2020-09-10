@@ -4,6 +4,8 @@
 
 **示例:**
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0151%20-%200200/173.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BF%AD%E4%BB%A3%E5%99%A8/assets/bst-tree.png)
+
 ```
 BSTIterator iterator = new BSTIterator(root);
 iterator.next();    // 返回 3
