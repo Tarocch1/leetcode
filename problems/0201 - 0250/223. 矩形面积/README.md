@@ -2,6 +2,8 @@
 
 每个矩形由其左下顶点和右上顶点坐标表示，如图所示。
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0201%20-%200250/223.%20%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF/assets/rectangle_area.png)
+
 **示例:**
 
 ```
