@@ -2,6 +2,8 @@
 
 现有一个链表 -- head = [4,5,1,9]，它可以表示为:
 
+![](https://github.com/Tarocch1/leetcode/blob/master/problems/0201%20-%200250/237.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9/assets/237_example.png)
+
 **示例 1:**
 
 ```
